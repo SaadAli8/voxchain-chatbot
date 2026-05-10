@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+langchain
+langchain-openai
+supabase
+requests
+selenium
+passlib
+python-dotenv
+pydantic-settings

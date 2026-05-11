@@ -6,8 +6,8 @@ VoxChain Chatbot is a full-stack chatbot application with a FastAPI backend and 
 
 ```text
 VoxChain-Chatbot/
-├── FastApi/      # FastAPI backend
-└── voxchain/     # React frontend
+├── FastApi/    
+└── voxchain/  
 ```
 
 ## Requirements

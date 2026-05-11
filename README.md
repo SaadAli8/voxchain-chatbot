@@ -94,14 +94,6 @@ http://localhost:3000
 - Python cache files, virtual environments, build output, logs, and Node dependencies are ignored.
 - If any real key was ever committed or shared, rotate it before publishing the repository.
 
-## Recommended Repository Name
-
-Use:
-
-```text
-voxchain-chatbot
-```
-
 ## First Push To GitHub
 
 Because this project contains both backend and frontend code, the recommended GitHub repository root is `VoxChain-Chatbot`, not only the `voxchain` frontend folder.
